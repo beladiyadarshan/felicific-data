@@ -1,0 +1,25 @@
+{
+	"event_name":"PAINBALL",
+	"tagline":"Keep calm and play paint ball!!!",
+	"poster":"images/img53.jpg",
+	"date":"5th march, 2019",
+	"time":"2:30 am onwards",
+	"venue":"Parking space near Multimedia Hall",
+	"student_coordinator": [["Nishi Patel","0"],["Yash Bhatiya",""]],
+	"team_size":"Team of 6 members. Max. 12 teams on pre-registration basis",
+	"description":"A team of 6 members each having a paper ring on their head fights against the opponent team. The first team to tear all the rings of the Opponents with their water guns wins",
+	"rules":["•	No body shots.",
+		"•Armor will be provided for cover.",
+		"•	Water will be limited for each team (2 buckets).",
+		"•Knock-out type tournament.",
+		"•Participants will be provided same kind of water guns.",
+		"•The first team to tear the rings of opponent with water guns within the provided time limit will win.",
+		"•	If any team is not able to tear all rings of opponent team within the time limit then the team whose minimum rings are torn will win."],
+	"fees":"150 INR per Team",
+	"Registration_type":" Pre-registration and first come first serve basis. ",
+	"Registration_Start_date":"18/02/2019, 11:00am onwards",
+	"Registration_Closure_date":"25/02/2019, up to 5:00pm",
+	"Winning_prize":"First prize Rs. 1000, second prize Rs. 500",
+	"Additional_remark":""
+	
+}
