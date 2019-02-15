@@ -1,0 +1,35 @@
+﻿{
+	"event_name":"IPL AUCTION",
+	"tagline":"No Tagline",
+	"poster":"images/img82.jpg",
+	"date":"8th march, 2019",
+	"time":"10.00 am onwards",
+	"venue":"Drawing Hall",
+	"student_coordinator": [["Maheshwar Dhadhal","8690787163"],["Nandita Tanneti","0"]],
+	"team_size":"Team of 3 to 4 participants",
+	"description":"Number of rounds: 3, Round 1: Quiz : The quiz will contain questions related to cricket only. It will be an elimination round. Based on the total number of participation of team certain number of teams will go to the next round. Participants are not allowed to use Mobile, or any other gadgets. Round 2: Auction for selection of team. There will be Bidding for the selection of the team (i.e Title of Team). The one who Bids highest will get that team.(Real Money will be used for bidding in this round). There will be auction of 8 team title, So 8 teams will go to next round. Team will have to provide money on the spot. Similarly other team will also be allocated. Round 3: Players Auction. The final teams will compete in a live auction of players. Each team will be given a fixed budget (virtual points) which will be used for the auction. The aim will be to build a squad that maximizes the total attribute score of the team. Additional Point: In third round, teams will have to take one laptop (per team). Because we will make one software by which all team can know that how much money left, which player are sold and which are not sold, which team has bought which player etc. will be shown on their laptop. Attribute score: Rating points are decided on the basis of the player’s last year’s International performance (includes IPL and other Domestic Tournaments) by managing committee. Team must comprise of 15-18 Players (i.e Min 15 Players and Max. 18 Players). Team composition: Batsmen 5, All-rounder 3, Wicketkeeper 2, bowler 5. Name 1 captain: Rating points 2X. Name 1 vice-captain: Rating points 1.5X. Maximum 6 international players.",
+	"rules":["A team must comprise of 3-4 members.",
+			"Team members must be of same college.",
+			"A team member cannot register in more than one team.",
+			"The virtual equal money will be given to the teams.",
+			"In case of discrepancies, decision of the judges/event organizers will be final.",
+			"Organizers reserve the right to change the time lines.",
+			"8 cricket teams will be allotted to the participants.",
+			"Bidding will be done for the selection of the teams.",
+			"At a time two teams can bid.",
+			"The team which is having maximum points will be the winner and get the double the amount they pay for the selection of particular team.",
+			"The team which is having  second highest point will get amount.(amount = They paid for selection of team X 1.5)",
+			"The team which is having third highest points will get the amount they paid for the selection of particular team.",
+			"From the given figure of money, the team has to buy minimum 15 players.",
+			"The team with players less than 15 will be disqualified."
+	],
+	
+
+	"fees":"100 INR per team",
+	"Registration_type":"Pre-registration and first come first serve basis.",
+	"Registration_Start_date":"18/02/2019, 11:00am onwards",
+	"Registration_Closure_date":"25/02/2019, up to 5:00pm",
+	"Winning_prize":"Winner will get double the amount they paid for a team. 1st Runners up will get 1.5 X amount they paid for a team. 2nd Runners up will get the same amount they paid for the team.",
+	"Additional_remark":"The teams selected for 3rd round will have to bring one laptop."
+	
+}

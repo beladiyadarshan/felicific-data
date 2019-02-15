@@ -1,0 +1,26 @@
+{
+	"event_name":"GLASS PAINTING",
+	"tagline":"Dream your painting and paint your dream on glass",
+	"poster":"images/img81.jpg",
+	"date":"8th march, 2019",
+	"time":"9.00 am onwards",
+	"venue":"Center Foyer",
+	"student_coordinator": [["Rohan Patel","9624573542"],["Margav Patel","8141158282"]],
+	"team_size":"Individual",
+	"description":"Glass Painting was introduced a way long in 12th century Gothic Period.It is one of the most attractive art foam with innumerable techniques. Glass art amplifies the beauty which is drawn on it when light passes through it , Glass painting is mode of expression and your creativity.It was one of the best medium which is used in contemporary and abstract art.So this Glass Painting will give you opportunity to show your skills. ",
+	"rules":["It is an individual event.",
+			"Total time allotted for the event is 1.5 hours.",
+			"Paint brushes, colors, glass, marker pen will be provided.",
+			"The candidate may use extra painting material with his/her own arrangement. In such cases, prior permission from coordinator is mandatory.",
+			"Auction will be held on the day of event and winner will be awarded specific percent share of money from maximum auction amount.",
+			"The decision of the Judges will be final and binding",
+			"Candidates will be judged based on painting accuracy, creativity, color composition etc",
+			"The participant shall not be allowed to use mobile or any other ready made drawing reference"],
+	"fees":"100 INR per participant",
+	"Registration_type":"Pre-registration and first come first serve basis.",
+	"Registration_Start_date":"18/02/2019, 11:00am onwards",
+	"Registration_Closure_date":"25/02/2019, up to 5:00pm",
+	"Winning_prize":"To be announced at the time of event",
+	"Additional_remark":"Winner will be awarded specific percent share of money from maximum auction amount. Auction will be held on 08/03/2019 at 4:30pm"
+	
+}

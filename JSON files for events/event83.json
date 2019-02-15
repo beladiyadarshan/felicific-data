@@ -1,0 +1,21 @@
+{
+	"event_name":"",
+	"tagline":"",
+	"poster":"images/img83.jpg",
+	"date":"8th march, 2019",
+	"time":"2:30 pm onwards",
+	"venue":"Central Foyer",
+	"studentcoordinator": [["Tarang Parikh","9427512498"],["Rahul Sata","9099320229"]],
+	"team_size":"5 per team. Maximum 12 teams will be allowed.",
+	"description":"This will be a 5-a side football tournament. It will be a knockout type tournament. Further details will be described at the time of event.",
+	"rules":["•	Each match will be of 10 minutes.",
+			"•	Referee’s decision will be final.",
+			"•	Goals above knee height will not be allowed"],
+	"fees":"100 INR per team.",
+	"Registration_type":"Pre-registration and first come first serve basis.",
+	"Registration_Start_date":"18/02/2019, 11:00am onwards",
+	"Registration_Closure_date":"25/02/2019, up to 5:00pm",
+	"Winning_prize":"Rs. 1000 for winner, Rs. 500 for first runner up and Rs. 300 for second runner up",
+	"Additional_remark":""
+	
+}
