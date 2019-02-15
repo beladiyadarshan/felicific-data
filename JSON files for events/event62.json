@@ -1,0 +1,18 @@
+{
+	"event_name":"ELITE TALKS",
+	"tagline":"Where your ideas are cherished",
+	"poster":"images/img62.jpg",
+	"date":"6th march, 2019",
+	"time":"12.30 pm onwards",
+	"venue":"Multimedia Hall / Seminar Hall",
+	"student_coordinator": [["Karan Thacker","8780784343"],["Shivang Pandya","8469817189"]],
+	"team_size":"Individual",
+	"description":"Participants will have to give a presentation on their chosen topic. Topic can be from any field (scientific innovation, social-science, mathematics, philosophy, politics etc.). Participants will be given a chance to put forth their ideas in front of the audience and the judges on the illustrative topic which will be helpful to them for future opportunities. A presentation isn’t another word for “power point,” contrary to the popular understanding of most conference speakers. A presentation should inform, persuade, or build goodwill.",
+	"rules":["Each participant will have to give their presentation on the respective topic in a given time limit of 10 minutes.","The gist or PowerPoint presentation should be precise (slides should not be more than 10).","Participants will have to submit their topic and gist/PowerPoint presentation 3 days before the event.","The winner will be decided by judges."],
+	"fees":"30 INR",
+	"Registration_type":"Pre-registration required and the gist/PowerPoint presentation has to be submitted 3 days before the event.",
+	"Registration_Start_date":"18/02/2019, 11:00am onwards",
+	"Registration_Closure_date":"25/02/2019, up to 5:00pm",
+	"Winning_prize":"Cash prize would be given to winner",
+	"Additional_remark":""
+}

@@ -1,0 +1,19 @@
+{
+	"event_name":"WATERBOAR RACE",
+	"tagline":"If land is not enough, come compete in water!",
+	"poster":"images/img66.jpg",
+	"date":"6th march, 2019",
+	"time":"3.00 pm onwards",
+	"venue":"Near Narayan Bhavan",
+	"student_coordinator": [["Mr. Kasmani Hamza","81282 53496"],["Mr. Dave Devanshu","94096 22465"],["Mr. Thakkar Saurin","97259 90278"],["Mr. Dave Arpit","76000 68814"]],
+	"team_size":"Each team consists of a maximum of 4 participants.",
+	"description":"Design a motor boat which could compete in water race against time. The boat can be powered by DC motor only. In addition to the propulsion, use of DC motors or servo motors for rudder control is permitted Boats will compete each other to cross the finish line as fast as possible in minimum time.",
+	"rules":["MACHINE SPECIFICATION:","Dimensions and fabrications:","The dimension of boat should not exceed 300mm x300mm x 300 mm at every given point of the tournament.","Boat cannot be divided into parts during competition (Machine should be a single unit during competition). The weight of floating machine should not exceed 3kg (excluding weight of batteries, remote etc.)","Control specifications:-","The machine may be controlled wirelessly or with wires.","If the machine is controlled wirelessly, the machine must have a dual frequency remote control to avoid frequency interference with other teams.","Remote control systems from toys might be used. Remote control systems available in the market may also be used.","Power source:-","Only Battery powered boat is allowed.","Electric voltage anywhere in the machine should not be more than 12V DC at any point of time.","Use of IC engines in any form is not allowed.","Each team can consist of a maximum of 4 participants.","Each participant must have a valid identity card of his/her institute.","Any team that is not ready at the reporting time of event will be disqualified from the competition automatically.","The machine would be checked for dimensions and safety before the event begins and would be disqualified, if found unsafe for other participants, arena and spectators by the event organizers/judges.","Misconduct by dragging the boat by wire will lead to disqualification.","In all matters of ambiguity or dispute, the organizer’s/judge’s decision stands final and abiding to all.","The competition will be played on a time basis.","A machine will be considered immobile, if it cannot move linear motion for 30 seconds and it will be disqualified.","BOAT FABRICATION AND RACE TRACK","The hull and rudder mechanism of the boat must be fabricated by participants. Readymade components if found in the hull or rudder, will result in immediate disqualification.","Propeller, rudder fins, remote control, servo motors and electronic circuits may be readymade.","It is advisable to use lightweight materials such as balsa wood, FRP or plastics to fabricate the boat.","The race will be held in the pool. Disturbances and turbulence on the water surface should be taken into account."],
+	"fees":"250 INR per team",
+	"Registration_type":"Pre-registration and first come first serve basis.",
+	"Registration_Start_date":"18/02/2019, 11:00am onwards",
+	"Registration_Closure_date":"25/02/2019, up to 5:00pm",
+	"Winning_prize":"1st prize: 3000,  2nd prize: 1500,  3rd prize: 1000",
+	"Additional_remark":"Numbers of winner rank are subject to reduce based on strength of participation. Participation Certificate will be provided to all the participants."
+	
+}

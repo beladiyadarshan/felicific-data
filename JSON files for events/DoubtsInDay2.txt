@@ -1,0 +1,22 @@
+Issues in Day2 : 6/3/2019 Event's Json files
+
+#1 : 
+In third event sherlock event description is divided into three parts each for one round, which is very length for one string.
+
+
+#2 :
+In Fourth event tri leg maze, event tagline is in hindi,
+currently i set it in english fonts because hindi fonts are not showing properly.
+
+#3 :
+In fourth event tri leg maze,
+event description is in rounds and it is too lengthy for one string
+
+#4 :
+In fifth event ultimate jugaadu event description is in rounds
+
+#5 :
+In sixth event rules are going beyond 2000 cols.
+
+
+_vivek
