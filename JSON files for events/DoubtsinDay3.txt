@@ -1,0 +1,6 @@
+Issue in day: 07/03/2019
+
+In second event rules are given in sub division and size is too long.
+
+
+-Trupti
