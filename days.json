@@ -1,32 +1,32 @@
 [
 	{
-		"day": "",
-		"date": "5th Mar, 2019",
-		"poster_url": "",
+		"day": "Executive day",
+		"date": "11th Mar, 2019",
+		"poster_url": "poster/images/day5",
 		"event_count": 5
 	},
 	{
-		"day": "",
-		"date": "6th Mar, 2019",
-		"poster_url": "",
+		"day": "Group day",
+		"date": "12th Mar, 2019",
+		"poster_url": "poster/images/day6",
 		"event_count": 6
 	},
 	{
-		"day": "",
-		"date": "7th Mar, 2019",
-		"poster_url": "",
+		"day": "Mismatch day",
+		"date": "13th Mar, 2019",
+		"poster_url": "poster/images/day7",
 		"event_count": 4
 	},
 	{
-		"day": "",
-		"date": "8th Mar, 2019",
-		"poster_url": "",
+		"day": "Same Colour day",
+		"date": "14th Mar, 2019",
+		"poster_url": "poster/images/day8",
 		"event_count": 4
 	},
 	{
-		"day": "",
-		"date": "9th Mar, 2019",
-		"poster_url": "",
+		"day": "Traditional day",
+		"date": "15th Mar, 2019",
+		"poster_url": "poster/images/day9",
 		"event_count": 3
 	}
 ]
