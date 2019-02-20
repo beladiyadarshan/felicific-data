@@ -2,8 +2,8 @@
 	{
 	"event_name":"BLIND VOLLEYBALL",
 	"tagline":"Can you guess where the ball is ???",
-	"poster":"images/img71.jpg",
-	"date":"7th march, 2019",
+	"poster":"poster/images/img71.jpg",
+	"date":"13th march, 2019",
 	"time":"2:30pm onwards",
 	"venue":"Center Foyer",
 	"student_coordinator": [["Abhishek Pandya","9033635600"],["Tariq Tomar","9427201931"]],
@@ -22,8 +22,8 @@
 	{
 	"event_name":"ROBOWAR",
 	"tagline":"License to Kill",
-	"poster":"images/img72.jpg",
-	"date":"7th march, 2019",
+	"poster":"poster/images/img72.jpg",
+	"date":"13th march, 2019",
 	"time":"10:00am onwards",
 	"venue":"Near Narayan Bhavan",
 	"student_coordinator": [["Chandwani Akshay","9913830129"],["Donga Mit","9377136162"],["Patel Yash","9427462074"],["Dhananjay mistry","9913302433"],["Minesh Prajapati","9558285179"]],
@@ -42,8 +42,8 @@
 	{
 	"event_name":"SPELL BEE",
 	"tagline":"Every Letter Matters",
-	"poster":"images/img73.jpg",
-	"date":"7th march, 2019",
+	"poster":"poster/images/img73.jpg",
+	"date":"13th march, 2019",
 	"time":"12:30pm onwards",
 	"venue":"Seminar Hall",
 	"student_coordinator": [["Karan Thacker","8780784343"],["Shivang Pandya","8469817189"]],
@@ -62,8 +62,8 @@
 	{
 	"event_name":"T-SHIRT CREATA",
 	"tagline":"Paint your wardrobe piece with your artistic mind",
-	"poster":"images/img74.jpg",
-	"date":"7th march, 2019",
+	"poster":"poster/images/img74.jpg",
+	"date":"13th march, 2019",
 	"time":"9:00am onwards",
 	"venue":"Center Foyer",
 	"student_coordinator": [["Harsh Gohel","9638622970"],["Alpita Vasava",""]],

@@ -2,8 +2,8 @@
 	{
 	"event_name":"ACE OF GAMENIA",
 	"tagline":"Chase the ace",
-	"poster":"images/img91.jpg",
-	"date":"9th march, 2019",
+	"poster":"poster/images/img91.jpg",
+	"date":"15th march, 2019",
 	"time":"10:00 am onwards",
 	"venue":"Drawing Hall, Narayan Bhavan",
 	"student_coordinator": [["Aagam Doshi","9427653953"],["Shaikh Mohammed Rehan","7698297706"]],
@@ -23,8 +23,8 @@
 	{
 	"event_name":" ANTAKSHARI",
 	"tagline":"Mehfil Gano Ki",
-	"poster":"images/img92.jpg",
-	"date":"9th march, 2019",
+	"poster":"poster/images/img92.jpg",
+	"date":"15th march, 2019",
 	"time":"11:00 am onwards",
 	"venue":"Main Stage for final round",
 	"student_coordinator": [["Yash Bhatiya","9825164130"],["Soor Patel","0"]],
@@ -46,8 +46,8 @@
 	{
 	"event_name":"COLOURISTA",
 	"tagline":"Unity of Colors",
-	"poster":"images/img93.jpg",
-	"date":"9th march, 2019",
+	"poster":"poster/images/img93.jpg",
+	"date":"15th march, 2019",
 	"time":"9:00 onwards",
 	"venue":"Central Foyer",
 	"student_coordinator": [["Jahnvi Tanna","0"],["Riya Thacker","0"],["Harsh Gohel","9638622970"]],

@@ -2,8 +2,8 @@
 	{
 	"event_name":"GLASS PAINTING",
 	"tagline":"Dream your painting and paint your dream on glass",
-	"poster":"images/img81.jpg",
-	"date":"8th march, 2019",
+	"poster":"poster/images/img81.jpg",
+	"date":"14th march, 2019",
 	"time":"9.00 am onwards",
 	"venue":"Center Foyer",
 	"student_coordinator": [["Rohan Patel","9624573542"],["Margav Patel","8141158282"]],
@@ -29,8 +29,8 @@
 	{
 	"event_name":"IPL AUCTION",
 	"tagline":"No Tagline",
-	"poster":"images/img82.jpg",
-	"date":"8th march, 2019",
+	"poster":"poster/images/img82.jpg",
+	"date":"14th march, 2019",
 	"time":"10.00 am onwards",
 	"venue":"Drawing Hall",
 	"student_coordinator": [["Maheshwar Dhadhal","8690787163"],["Nandita Tanneti","0"]],
@@ -65,8 +65,8 @@
 	{
 	"event_name":"STREET FOOTBALL",
 	"tagline":": Let the footballer inside you do the talking!!! (????)",
-	"poster":"images/img83.jpg",
-	"date":"8th march, 2019",
+	"poster":"poster/images/img83.jpg",
+	"date":"14th march, 2019",
 	"time":"2:30 pm onwards",
 	"venue":"Central Foyer",
 	"studentcoordinator": [["Tarang Parikh","9427512498"],["Rahul Sata","9099320229"]],
@@ -87,8 +87,8 @@
 	{
 	"event_name":"TECHNICAL POSTER PRESENTATION",
 	"tagline":"A poster is worth a thousand words !",
-	"poster":"images/img84.jpg",
-	"date":"8th march, 2019",
+	"poster":"poster/images/img84.jpg",
+	"date":"14th march, 2019",
 	"time":"10.00 am onwards",
 	"venue":"HMT Lab, Narayan Bhavan",
 	"student_coordinator": [["Mangalam Gupta","8000061031"],["Meet Patel","9712147097"]],

@@ -2,8 +2,8 @@
 	{
 	"event_name":"EQUAL STREET",
 	"tagline":"The fun awaits",
-	"poster":"images/img51.jpg",
-	"date":"5th march, 2019",
+	"poster":"poster/images/img51.jpg",
+	"date":"11th march, 2019",
 	"time":"12:30 am onwards",
 	"venue":"WILL BE DISCLOSED LATER",
 	"student_coordinator": [["Tarang Parikh","942751298"],["Shivang Pandya","8469817189"]],
@@ -23,8 +23,8 @@
 	{
 	"event_name":"HYDROMOBILE",
 	"tagline":"Innovative way to climb workstation",
-	"poster":"images/img52.jpg",
-	"date":"5th march, 2019",
+	"poster":"poster/images/img52.jpg",
+	"date":"11th march, 2019",
 	"time":"3:00 pm onwards",
 	"venue":"Near Narayan Bhavan",
 	"student_coordinator": [["Akshat Shah ","9924840199"],["Ganesh Penta ","8160189093"],["Nevil Patel "," 8200843890"],["Shubham Inani ","9408920775"]],
@@ -57,10 +57,10 @@
 	},
 	
 	{
-	"event_name":"PAINBALL",
+	"event_name":"PAINTBALL",
 	"tagline":"Keep calm and play paint ball!!!",
-	"poster":"images/img53.jpg",
-	"date":"5th march, 2019",
+	"poster":"poster/images/img53.jpg",
+	"date":"11th march, 2019",
 	"time":"2:30 am onwards",
 	"venue":"Parking space near Multimedia Hall",
 	"student_coordinator": [["Nishi Patel","0"],["Yash Bhatiya","9825164130"]],
@@ -85,8 +85,8 @@
 	{
 	"event_name":"SHORT FILM MAKING",
 	"tagline":"Ab kuch shikhao filmy style main",
-	"poster":"images/img54.jpg",
-	"date":"5th march, 2019",
+	"poster":"poster/images/img54.jpg",
+	"date":"11th march, 2019",
 	"time":"4:00 pm onwards",
 	"venue":"Multimedia Hall / Seminar Hall",
 	"student_coordinator": [["Karan Thacker","8780784343"],["Tarang Parikh","9427512498"]],
@@ -108,8 +108,8 @@
 	{
 	"event_name":"SILHOUETTE MAKING",
 	"tagline":"Let black be more colourful",
-	"poster":"images/img55.jpg",
-	"date":"5th march, 2019",
+	"poster":"poster/images/img55.jpg",
+	"date":"11th march, 2019",
 	"time":"9:00 am onwards",
 	"venue":"Drawing Hall, Narayan Bhavan",
 	"student_coordinator": [["Karan Thacker","8780784343"],["Tarang Parikh","9427512498"]],
