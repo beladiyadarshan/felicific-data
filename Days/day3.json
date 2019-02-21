@@ -1,108 +1,131 @@
-[
-	{
-	"event_name":"BLIND VOLLEYBALL",
-	"tagline":"Can you guess where the ball is ???",
-	"poster":"poster/images/day7/img71.jpg",
-	"date":"13th march, 2019",
-	"time":"2:30pm onwards",
-	"venue":"Center Foyer",
-	"student_coordinator": [["Abhishek Pandya","9033635600"],["Tariq Tomar","9427201931"]],
-	"team_size":"2 persons per team ( Max. 12 teams allowed on pre-registration basis)",
-	"description":"In this game, the regular net will be replaced by an opaque black cloth. Other terms are similar to volleyball game.",
-	"rules":["The ball should be sent back to the other side in max 2 hits.","Each member can hit the ball only once.","Smashing will be not allowed."],
-	"fees":"100 INR per team",
-	"Registration_type":"Pre-registration and first come first serve basis.",
-	"Registration_Start_date":"18/02/2019, 11:00am onwards",
-	"Registration_Closure_date":"25/02/2019, up to 5:00pm",
-	"Winning_prize":"Winner Rs. 1000, Runner up Rs. 500",
-	"Additional_remark":""
-	
+[{
+		"event_name": "BLIND VOLLEYBALL",
+		"tagline": "Can you guess where the ball is ???",
+		"poster": "poster/images/day7/img71.jpg",
+		"date": "13th march, 2019",
+		"time": "2:30pm onwards",
+		"venue": "Center Foyer",
+		"student_coordinator": [
+			["Abhishek Pandya", "9033635600"],
+			["Tariq Tomar", "9427201931"]
+		],
+		"team_size": "2 persons per team ( Max. 12 teams allowed on pre-registration basis)",
+		"description": "In this game, the regular net will be replaced by an opaque black cloth. Other terms are similar to volleyball game.",
+		"rules": ["The ball should be sent back to the other side in max 2 hits.", "Each member can hit the ball only once.", "Smashing will be not allowed."],
+		"fees": "100 INR per team",
+		"Registration_type": "Pre-registration and first come first serve basis.",
+		"Registration_Start_date": "18/02/2019, 11:00am onwards",
+		"Registration_Closure_date": "25/02/2019, up to 5:00pm",
+		"Winning_prize": "Winner Rs. 1000, Runner up Rs. 500",
+		"Additional_remark": ""
+
 	},
-	
+
 	{
-	"event_name":"ROBOWAR",
-	"tagline":"License to Kill",
-	"poster":"poster/images/day7/img72.jpg",
-	"date":"13th march, 2019",
-	"time":"10:00am onwards",
-	"venue":"Near Narayan Bhavan",
-	"student_coordinator": [["Chandwani Akshay","9913830129"],["Donga Mit","9377136162"],["Patel Yash","9427462074"],["Dhananjay mistry","9913302433"],["Minesh Prajapati","9558285179"]],
-	"team_size":"Maximum no. of 5 Participants per team",
-	"description":"",
-		"rules":[""],
-		"fees":"400 INR per team",
-		"Registration_type":"Pre-registration and first come first serve basis.",
-		"Registration_Start_date":"18/02/2019, 11:00am onwards",
-		"Registration_Closure_date":"25/02/2019, up to 5:00pm",
-		"Winning_prize":"1st prize: 5000,  2nd prize: 2500,  3rd prize: 1000",
-		"Additional_remark":"Numbers of winner rank are subject to reduce based on strength of participation."
-		
+		"event_name": "ROBOWAR",
+		"tagline": "License to Kill",
+		"poster": "poster/images/day7/img72.jpg",
+		"date": "13th march, 2019",
+		"time": "10:00am onwards",
+		"venue": "Near Narayan Bhavan",
+		"student_coordinator": [
+			["Chandwani Akshay", "9913830129"],
+			["Donga Mit", "9377136162"],
+			["Patel Yash", "9427462074"],
+			["Dhananjay mistry", "9913302433"],
+			["Minesh Prajapati", "9558285179"]
+		],
+		"team_size": "Maximum no. of 5 Participants per team",
+		"description": "",
+		"rules": [""],
+		"fees": "400 INR per team",
+		"Registration_type": "Pre-registration and first come first serve basis.",
+		"Registration_Start_date": "18/02/2019, 11:00am onwards",
+		"Registration_Closure_date": "25/02/2019, up to 5:00pm",
+		"Winning_prize": "1st prize: 5000,  2nd prize: 2500,  3rd prize: 1000",
+		"Additional_remark": "Numbers of winner rank are subject to reduce based on strength of participation."
+
 	},
-	
+
 	{
-	"event_name":"SPELL BEE",
-	"tagline":"Every Letter Matters",
-	"poster":"poster/images/day7/img73.jpg",
-	"date":"13th march, 2019",
-	"time":"12:30pm onwards",
-	"venue":"Seminar Hall",
-	"student_coordinator": [["Karan Thacker","8780784343"],["Shivang Pandya","8469817189"]],
-	"team_size":"Individual",
-	"description":"Round 1: participants are given 1o random letters using which they have to make maximum number of words in 2 minutes. Round 2: pen and paper test, of 10 minutes, having 20 questions, each question having the meaning and a few letters of the word. Round 3: rapid fire round of 1 minute.Round 4: classic spell bee format.",
-	"rules":["From round 1, top 10 will be selected.","From round 2, top 5 will be selected.","In round 3, every correct spelling is worth 10 points.","In round 4, every correct spelling is worth 20 points. The word may be passed on to the next participant if the spelling is wrong, for the same number of points.","The meaning of the word may be used as a lifeline, but at the cost of 5 points."],
-	"fees":"30 INR ",
-	"Registration_type":"Pre-registration required",
-	"Registration_Start_date":"18/02/2019, 11:00am onwards",
-	"Registration_Closure_date":"25/02/2019, up to 5:00pm",
-	"Winning_prize":"To be announced at the time of event",
-	"Additional_remark":""
-	
+		"event_name": "SPELL BEE",
+		"tagline": "Every Letter Matters",
+		"poster": "poster/images/day7/img73.jpg",
+		"date": "13th march, 2019",
+		"time": "12:30pm onwards",
+		"venue": "Seminar Hall",
+		"student_coordinator": [
+			["Karan Thacker", "8780784343"],
+			["Shivang Pandya", "8469817189"]
+		],
+		"team_size": "Individual",
+		"description": "Round 1: participants are given 1o random letters using which they have to make maximum number of words in 2 minutes. Round 2: pen and paper test, of 10 minutes, having 20 questions, each question having the meaning and a few letters of the word. Round 3: rapid fire round of 1 minute.Round 4: classic spell bee format.",
+		"rules": ["From round 1, top 10 will be selected.", "From round 2, top 5 will be selected.", "In round 3, every correct spelling is worth 10 points.", "In round 4, every correct spelling is worth 20 points. The word may be passed on to the next participant if the spelling is wrong, for the same number of points.", "The meaning of the word may be used as a lifeline, but at the cost of 5 points."],
+		"fees": "30 INR ",
+		"Registration_type": "Pre-registration required",
+		"Registration_Start_date": "18/02/2019, 11:00am onwards",
+		"Registration_Closure_date": "25/02/2019, up to 5:00pm",
+		"Winning_prize": "To be announced at the time of event",
+		"Additional_remark": ""
+
 	},
-	
+
 	{
-	"event_name":"T-SHIRT CREATA",
-	"tagline":"Paint your wardrobe piece with your artistic mind",
-	"poster":"poster/images/day7/img74.jpg",
-	"date":"13th march, 2019",
-	"time":"9:00am onwards",
-	"venue":"Center Foyer",
-	"student_coordinator": [["Harsh Gohel","9638622970"],["Alpita Vasava",""]],
-	"team_size":"Individual participation, Maximum 60 entries allowed",
-	"description":"Life is all about expressing your ideas and colors will help you do because colors are vibrating light energies, each color rays produces a effect that affects matters .so do you want where this colourful imagination on your heart and face.So this T-shirt Painting event will give you perfect opportunity to show your imagination, creativity and your fashion skills in the T-Shirt Painting competition.  ",
-	"rules":["Participants are requested to register before 01/03/2019.","Only one participants are allowed in one team.","1 hour time provided for event.","Auction will be held on the day of event and winner will be awarded specific percent share of money from maximum auction amount. ","Only one round will be organize for the competition.","Event will be held at Central foyer.","You may not use your own materials and colors for painting.","Judgment will be based on creativity, artwork and principles of design.","Decision of Judges will be final and binding on all teams."],
-	"fees":"150 INR per person",
-	"Registration_type":"Pre-registration and first come first serve basis.",
-	"Registration_Start_date":"18/02/2019, 11:00am onwards",
-	"Registration_Closure_date":"25/02/2019, up to 5:00pm",
-	"Winning_prize":"Auction based prize. Participant will get 50% of the total auction amount as prize. Certificates will be given to winner and runner up participants only.",
-	"Additional_remark":"It is mandatory for participant to remain present at the time of auction."
-	
+		"event_name": "T-SHIRT CREATA",
+		"tagline": "Paint your wardrobe piece with your artistic mind",
+		"poster": "poster/images/day7/img74.jpg",
+		"date": "13th march, 2019",
+		"time": "9:00am onwards",
+		"venue": "Center Foyer",
+		"student_coordinator": [
+			["Harsh Gohel", "9638622970"],
+			["Alpita Vasava", ""]
+		],
+		"team_size": "Individual participation, Maximum 60 entries allowed",
+		"description": "Life is all about expressing your ideas and colors will help you do because colors are vibrating light energies, each color rays produces a effect that affects matters .so do you want where this colourful imagination on your heart and face.So this T-shirt Painting event will give you perfect opportunity to show your imagination, creativity and your fashion skills in the T-Shirt Painting competition.  ",
+		"rules": ["Participants are requested to register before 01/03/2019.", "Only one participants are allowed in one team.", "1 hour time provided for event.", "Auction will be held on the day of event and winner will be awarded specific percent share of money from maximum auction amount. ", "Only one round will be organize for the competition.", "Event will be held at Central foyer.", "You may not use your own materials and colors for painting.", "Judgment will be based on creativity, artwork and principles of design.", "Decision of Judges will be final and binding on all teams."],
+		"fees": "150 INR per person",
+		"Registration_type": "Pre-registration and first come first serve basis.",
+		"Registration_Start_date": "18/02/2019, 11:00am onwards",
+		"Registration_Closure_date": "25/02/2019, up to 5:00pm",
+		"Winning_prize": "Auction based prize. Participant will get 50% of the total auction amount as prize. Certificates will be given to winner and runner up participants only.",
+		"Additional_remark": "It is mandatory for participant to remain present at the time of auction."
+
 	},
 	{
-	"event_name":"BOX CRICKET",
-	"tagline":"Crick, crick, cricket; don’t throw your wicket",
-	"poster":"poster/images/day7/img75.jpg",
-	"date":"13th march, 2019",
-	"time":"10:00 am onwards",
-	"venue":"Center Foyer",
-	"student_coordinator": [["Maheshwar Dhadhai","8690787163"],["Dignesh Mandanka","8866599805"],,["Ashik Patel","9714627178"]],
-	"team_size":"6 participants (at least one female participant). Max. 30 teams",
-	"description":"This is the cricket game. It will be played on the rectangular ground with six players in each team 	with at least one girl in the team. Ground will be of small size with certain special rules to play it. 	Bowling will be underarm only. ",
-	"rules":["Scoring Rules",
-		"In the case of ‘NO BALL’ and ‘WIDE BALL’,  2 runs will be given to the batting team. In the case of ‘NO BALL’ there will be ‘FREE HIT’ also.",
-		"Byes and Leg Byes are allowed.",
+		"event_name": "BOX CRICKET",
+		"tagline": "Crick, crick, cricket; don’t throw your wicket",
+		"poster": "poster/images/day7/img75.jpg",
+		"date": "13th march, 2019",
+		"time": "10:00 am onwards",
+		"venue": "Center Foyer",
+		"student_coordinator": [{
+				"Maheshwar Dhadhai": "8690787163"
+			},
+			{
+				"Dignesh Mandanka": "8866599805"
+			},
+			{
+				"Ashik Patel": "9714627178"
+			}
+		],
+		"team_size": "6 participants (at least one female participant). Max. 30 teams",
+		"description": "This is the cricket game. It will be played on the rectangular ground with six players in each team with at least one girl in the team. Ground will be of small size with certain special rules to play it. Bowling will be underarm only. ",
+		"rules": ["Scoring Rules",
+			"In the case of ‘NO BALL’ and ‘WIDE BALL’,  2 runs will be given to the batting team. In the case of ‘NO BALL’ there will be ‘FREE HIT’ also.",
+			"Byes and Leg Byes are allowed.",
 			"Players can score runs by running while the ball is in the ground.",
 			"4 runs will be given in case ball goes outside the Box/ground after some distraction (not directly).",
 			"In case if bowler bowls direct ball and ball goes outside the box/ground after some distraction (not directly) 8 runs will be given to batting team.",
 			"Batting team can get extra runs in case of over throws.",
-		"Out rule",
+			"Out rule",
 			"Direct Catch & one bounce (one hand) will be considered as OUT.",
 			"Ball going outside the Box directly without interference by opponent team will be considered as OUT.",
 			"Hit wicket will be considered as OUT (male).",
 			"Stumping and run out will also be considered as out.",
 			"In case of NO BALL stumping will not be considered as OUT.",
 			"No LBW out.",
-		"Bowling rules:",
+			"Bowling rules:",
 			"Underarm bowling is compulsory.",
 			"Ball should be pitched beyond the no ball line, otherwise it will be called as NO BALL.",
 			"In case if ball reaches batsman with more than one bounce it will be considered as DEAD BALL.",
@@ -114,18 +137,19 @@
 			"One female player needs to either open or need to go one down.",
 			"Female needs to bowl one over 1st or 2nd over compulsory.",
 			"Female players will not be considered out in case of hit wicket.",
-		"Other rules",
+			"Other rules",
 			"One Bowler can bowl maximum 1 over in an inning.",
 			"In case of Tie, “Super Over” will be played.",
 			"The Non Striker has to stand completely inside the STUMP BOX.",
 			"Umpire decision will be final and no arguments will be entertained with the umpire.",
-			"Umpire in any of the above situation may call off the play considering win to the opponent’s team.",],
-	"fees":"150 INR per team",
-	"Registration_type":"Pre-registration and first come first serve basis.",
-	"Registration_Start_date":"20/02/2019, 11:00am onwards",
-	"Registration_Closure_date":"28/02/2019, up to 5:00pm",
-	"Winning_prize":"Winner Rs. 1000",
-	"Additional_remark":""
-	
+			"Umpire in any of the above situation may call off the play considering win to the opponent’s team."
+		],
+		"fees": "150 INR per team",
+		"Registration_type": "Pre-registration and first come first serve basis.",
+		"Registration_Start_date": "20/02/2019, 11:00am onwards",
+		"Registration_Closure_date": "28/02/2019, up to 5:00pm",
+		"Winning_prize": "Winner Rs. 1000",
+		"Additional_remark": ""
+
 	}
 ]
