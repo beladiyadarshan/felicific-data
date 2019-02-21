@@ -1,86 +1,101 @@
-[
-	{
-	"event_name":"ACE OF GAMENIA",
-	"tagline":"Chase the ace",
-	"poster":"poster/images/day9/img91.jpg",
-	"date":"15th march, 2019",
-	"time":"10:00 am onwards",
-	"venue":"Drawing Hall, Narayan Bhavan",
-	"student_coordinator": [["Aagam Doshi","9427653953"],["Shaikh Mohammed Rehan","7698297706"]],
-	"team_size":"Individual",
-	"description":"",
-	"rules":["All the players will appear only once in one game. No second chance will be given. If found taking second chance, he/she will be disqualified for whole event. No excuses will be tolerated.",
-			"Registrations are accepted for individuals only. Team will be formed on the spot if required."],
-	"fees":"40 INR",
-	"Registration_type":" Pre-registration and first come first serve basis.",
-	"Registration_Start_date":"18/02/2019, 11:00am onwards",
-	"Registration_Closure_date":"25/02/2019, up to 5:00pm",
-	"Winning_prize":"To be announced at the time of event",
-	"Additional_remark":""
-	
+[{
+		"event_name": "ACE OF GAMENIA",
+		"tagline": "Chase the ace",
+		"poster": "poster/images/day9/img91.jpg",
+		"date": "15th march, 2019",
+		"time": "10:00 am onwards",
+		"venue": "Drawing Hall, Narayan Bhavan",
+		"student_coordinator": [
+			["Aagam Doshi", "9427653953"],
+			["Shaikh Mohammed Rehan", "7698297706"]
+		],
+		"team_size": "Individual",
+		"description": "",
+		"rules": ["All the players will appear only once in one game. No second chance will be given. If found taking second chance, he/she will be disqualified for whole event. No excuses will be tolerated.",
+			"Registrations are accepted for individuals only. Team will be formed on the spot if required."
+		],
+		"fees": "40 INR",
+		"Registration_type": " Pre-registration and first come first serve basis.",
+		"Registration_Start_date": "18/02/2019, 11:00am onwards",
+		"Registration_Closure_date": "25/02/2019, up to 5:00pm",
+		"Winning_prize": "To be announced at the time of event",
+		"Additional_remark": ""
+
 	},
 
 	{
-	"event_name":" ANTAKSHARI",
-	"tagline":"Mehfil Gano Ki",
-	"poster":"poster/images/day9/img92.jpg",
-	"date":"15th march, 2019",
-	"time":"11:00 am onwards",
-	"venue":"Main Stage for final round",
-	"student_coordinator": [["Yash Bhatiya","9825164130"],["Soor Patel","0"]],
-	"team_size":"3 members per team",
-	"description":"There will be 3 stages of this game.1st and 2nd stages will be conducted in pre-felicific week and last 3rd will be in felicific week on main stage.  Points will be given as per the speed of the team. 1st stage: Bollywood quiz competition (pen paper based) 2nd stage: Various modes of Antakshari (word, situation, guess the movie, karaoke, etc.)  (Top 20 teams)     3rd stage: Final competition on stage. (Top 5 teams)",
-	"rules":["Judgesâ€™ decision will be final.",
+		"event_name": " ANTAKSHARI",
+		"tagline": "Mehfil Gano Ki",
+		"poster": "poster/images/day9/img92.jpg",
+		"date": "15th march, 2019",
+		"time": "11:00 am onwards",
+		"venue": "Main Stage for final round",
+		"student_coordinator": [
+			["Yash Bhatiya", "9825164130"],
+			["Soor Patel", "0"]
+		],
+		"team_size": "3 members per team",
+		"description": "There will be 3 stages of this game.1st and 2nd stages will be conducted in pre-felicific week and last 3rd will be in felicific week on main stage.  Points will be given as per the speed of the team. 1st stage: Bollywood quiz competition (pen paper based) 2nd stage: Various modes of Antakshari (word, situation, guess the movie, karaoke, etc.)  (Top 20 teams)     3rd stage: Final competition on stage. (Top 5 teams)",
+		"rules": ["Judgesâ€™ decision will be final.",
 			"Basic rules of Antakshari are considered. (No repeating songs, etc.)",
 			"Limited time will be given to each team to think for the song and based on the time taken by the team points will be counted.",
-			"Team obtaining highest points will win."],
-	"fees":"100 INR",
-	"Registration_type":" Pre-registration and first come first serve basis.",
-	"Registration_Start_date":"18/02/2019, 11:00am onwards",
-	"Registration_Closure_date":"25/02/2019, up to 5:00pm",
-	"Winning_prize":"1000 INR",
-	"Additional_remark":""
-	
+			"Team obtaining highest points will win."
+		],
+		"fees": "100 INR",
+		"Registration_type": " Pre-registration and first come first serve basis.",
+		"Registration_Start_date": "18/02/2019, 11:00am onwards",
+		"Registration_Closure_date": "25/02/2019, up to 5:00pm",
+		"Winning_prize": "1000 INR",
+		"Additional_remark": ""
+
 	},
-	
+
 	{
-	"event_name":"COLOURISTA",
-	"tagline":"Unity of Colors",
-	"poster":"poster/images/day9/img93.jpg",
-	"date":"15th march, 2019",
-	"time":"9:00 onwards",
-	"venue":"Central Foyer",
-	"student_coordinator": [["Jahnvi Tanna","0"],["Riya Thacker","0"],["Harsh Gohel","9638622970"]],
-	"team_size":"Maximum 40 teams (Two participants per team) allowed",
-	"description":"Colourista is a Rangoli event. Rangoli is a Hindu folk art, generally created on a floor on special festive occasions. The origin of this art can be traced to the Puranas (works on Hindu mythology). Simply put, Rangoli means a row of colors. The tradition of Rangoli originated in Maharastra and slowly disseminated to other parts of India. This Colourista will give you opportunity to show your skills. ",
-	"rules":["Maximum two participants are allowed in one a team",
+		"event_name": "COLOURISTA",
+		"tagline": "Unity of Colors",
+		"poster": "poster/images/day9/img93.jpg",
+		"date": "15th march, 2019",
+		"time": "9:00 onwards",
+		"venue": "Central Foyer",
+		"student_coordinator": [
+			["Jahnvi Tanna", "0"],
+			["Riya Thacker", "0"],
+			["Harsh Gohel", "9638622970"]
+		],
+		"team_size": "Maximum 40 teams (Two participants per team) allowed",
+		"description": "Colourista is a Rangoli event. Rangoli is a Hindu folk art, generally created on a floor on special festive occasions. The origin of this art can be traced to the Puranas (works on Hindu mythology). Simply put, Rangoli means a row of colors. The tradition of Rangoli originated in Maharastra and slowly disseminated to other parts of India. This Colourista will give you opportunity to show your skills. ",
+		"rules": ["Maximum two participants are allowed in one a team",
 			"1.5 hoursâ€™ time provided for Rangoli preparation and decoration.",
 			"Rangoli will have to be designed in given space only.",
 			"Only one round will be organize for the competition.",
 			"Event will be held at Central Foyer.",
 			"Required materials will be provided to you. Additional decoration material if you wish can bring along with. At the time of event if approved, you may use it additionally.",
 			"Judgment will be based on creativity, artwork and principles of design.",
-			"Decision of Judges will be final and binding on all teams"],
-	"fees":"150 INR",
-	"Registration_type":" Pre-registration and first come first serve basis.",
-	"Registration_Start_date":"18/02/2019, 11:00am onwards",
-	"Registration_Closure_date":"25/02/2019, up to 5:00pm",
-	"Winning_prize":"To be announced at the time of event",
-	"Additional_remark":""
-	
+			"Decision of Judges will be final and binding on all teams"
+		],
+		"fees": "150 INR",
+		"Registration_type": " Pre-registration and first come first serve basis.",
+		"Registration_Start_date": "18/02/2019, 11:00am onwards",
+		"Registration_Closure_date": "25/02/2019, up to 5:00pm",
+		"Winning_prize": "To be announced at the time of event",
+		"Additional_remark": ""
+
 	},
-	
-		{
-	"event_name":"ROBO RACE",
-	"tagline":"Do your best - beat the rest!",
-	"poster":"poster/images/day9/img94.jpg",
-	"date":"15th march, 2019",
-	"time":"10:00 am onwards",
-	"venue":"Near Narayan Bhavan",
-	"student_coordinator": [["Ganesh Penta","8160189093"],["Vishv","8780412207"]],
-	"team_size":"Max 4 members",
-	"description":"Basic Robot making skill is required. Robo have to complete the path by help of all the member in minimum time. The team which will complete this task as fast as possible will be selected for 2nd round. The Robo will have to complete the defined path, consisting of different types of hurdles and path will also be consisting of different obstacle.",
-	"rules":["Robot should be as per the given specifications which will be checked before the event.",
+
+	{
+		"event_name": "ROBO RACE",
+		"tagline": "Do your best - beat the rest!",
+		"poster": "poster/images/day9/img94.jpg",
+		"date": "15th march, 2019",
+		"time": "10:00 am onwards",
+		"venue": "Near Narayan Bhavan",
+		"student_coordinator": [
+			["Ganesh Penta", "8160189093"],
+			["Vishv", "8780412207"]
+		],
+		"team_size": "Max 4 members",
+		"description": "Basic Robot making skill is required. Robo have to complete the path by help of all the member in minimum time. The team which will complete this task as fast as possible will be selected for 2nd round. The Robo will have to complete the defined path, consisting of different types of hurdles and path will also be consisting of different obstacle.",
+		"rules": ["Robot should be as per the given specifications which will be checked before the event.",
 			"Students from different institutes can form a team.",
 			"Each member of the team must contain the identity card of his/her respected institute.",
 			"The robot should not damage the arena",
@@ -90,12 +105,13 @@
 			"Unethical behavior could lead to disqualification. Faculty-coordinators have all the rights to take final decision for any matter during the event.",
 			"Three hand touches are allowed with penalty of +10 seconds. For each hand touch, penalty time will be added over and above the overall time required by robot for completion of the specified round.",
 			"Decision about your robot will be taken by the organizers.",
-			"Judge's decision and coordinator’s decision will be considered as final."],
-	"fees":"RS 250 per team"	
-	"Registration_type":" Pre-registration and first come first serve basis.",
-	"Registration_Start_date":"20/02/2019, 11:00am onwards",
-	"Registration_Closure_date":"28/02/2019, up to 5:00pm",
-	"Winning_prize":"1st prize: 3000,  2nd prize: 1500,  3rd prize: 1000",
-	"Additional_remark":"Numbers of winner rank are subject to reduce based on strength of participation. Participation Certificate will be provided to all the participants."
+			"Judge's decision and coordinator’s decision will be considered as final."
+		],
+		"fees": "RS 250 per team",
+		"Registration_type": " Pre-registration and first come first serve basis.",
+		"Registration_Start_date": "20/02/2019, 11:00am onwards",
+		"Registration_Closure_date": "28/02/2019, up to 5:00pm",
+		"Winning_prize": "1st prize: 3000,  2nd prize: 1500,  3rd prize: 1000",
+		"Additional_remark": "Numbers of winner rank are subject to reduce based on strength of participation. Participation Certificate will be provided to all the participants."
 	}
 ]
