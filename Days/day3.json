@@ -100,14 +100,9 @@
 		"time": "10:00 am onwards",
 		"venue": "Center Foyer",
 		"student_coordinator": [{
-				"Maheshwar Dhadhai": "8690787163"
-			},
-			{
-				"Dignesh Mandanka": "8866599805"
-			},
-			{
-				"Ashik Patel": "9714627178"
-			}
+			["Maheshwar Dhadhai": "8690787163"],
+			["Dignesh Mandanka": "8866599805"],
+			["Ashik Patel": "9714627178"]
 		],
 		"team_size": "6 participants (at least one female participant). Max. 30 teams",
 		"description": "This is the cricket game. It will be played on the rectangular ground with six players in each team with at least one girl in the team. Ground will be of small size with certain special rules to play it. Bowling will be underarm only. ",
