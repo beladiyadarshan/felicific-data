@@ -1,1 +1,37 @@
-xzvxc
+[
+	{
+		"name": "Feet On Fire",
+		"description": "'Great dancers are not great because of their technique. They are great because of their passion.' - Martha Graham. Dance is an activity which expresses your feelings and words through moves and facial expressions on rhythm. Dance is the hidden language of the soul. Dancing is more than just grooving on the dance floor to your favourite tunes. Dancing is a fantastic way to lose ourselves in the vibrating rhythm of the music. Dance allows you to express a wide variety of emotions. The way you dance can express happiness, excitement, and passion but also aggression and anger. So let us express our feeling through dance on the great stage of Felicific 2019.",
+		"poster_url": "poster/images/cultural/Dance1.jpg"
+	},
+	{
+		"name": "Spot Light",
+		"description": "Drama is a story told in dialogue by performers in front of an audience. Drama is a performance of experiences, stories, messages, entertainment, or any such event that the performer wants communicate to the audience. Drama is not bound with TV or Radio but it also connected with live performance. So present your experiences, stories, messages or any other event on the platform of Felicific 2019",
+		"poster_url": "poster/images/cultural/spotlight1.jpg"
+	},
+	{
+		"name": "Spill Poetry",
+		"description": "Poetry is a type of art which allows writers to use their emotions, imagination, creativity, and any other things. Poetry is not bounded with which is possible or impossible, but the imagination or creativity of a poet makes impossible to “I’m Possible”. Poetry is also an outflow of powerful feelings of a person that is expressed by words. Felicific 2019 gives you a platform to perform your poem to express your feelings, imagination and creativity.",
+		"poster_url": "poster/images/cultural/poetry1.jpg"
+	},
+	{
+		"name": "Rock Band",
+		"description": "Performance of the various musical band (students from other colleges are allowed to perform with their band).",
+		"poster_url": "poster/images/cultural/rockband.jpg"
+	},
+	{
+		"name": "Melodious Soul",
+		"description": "Singing is the act of producing musical sounds with the voice and augments regular speech by the use of sustained tonality, rhythm, and a variety of vocal techniques. So let explore the rhythm, tone & techniques with a great platform of Felicific 2019. Singing & Music are the ways of escaping to another world. So get ready to go to your own world with MELODIOUS SOUL. 'Singer doesn’t present their voices to the audience, they resonate their souls' – Thomas Hampson.",
+		"poster_url": "poster/images/cultural/Singing1.jpg"
+	},
+	{
+		"name": "ComicStaan",
+		"description": "Stand-up comedy is a comic style in which a comedian performs in front of a live audience. A performer can perform a grouping of humorous stories, jokes and one-liners. Comedy has the ability to project the harsh truths without creating any animosity. So, showcase the harshest and the hardest truths with your captivating performance the on live stage of Felicific 2019.  'Comedy is simply a funny way of being serious.' – Peter Ustinov.",
+		"poster_url": "poster/images/cultural/comicstan.jpg"
+	},
+	{
+		"name": "Unplugged",
+		"description": "Music is a form of art; an expression of emotions through harmonic frequencies. It is a collection of coordinated sound or sounds. An event which showcase instrument playing skills of the candidates.",
+		"poster_url": "poster/images/cultural/Unplugged.jpg"
+	}
+]
