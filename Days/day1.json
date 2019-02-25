@@ -1,9 +1,9 @@
-[{
+﻿[{
 		"event_name": "EQUAL STREET",
 		"tagline": "The fun awaits",
 		"poster": "poster/images/day5/img51.jpg",
 		"date": "11th march, 2019",
-		"time": "12:30 am onwards",
+		"time": "2:30 pm onwards",
 		"venue": "WILL BE DISCLOSED LATER",
 		"student_coordinator": [
 			["Tarang Parikh", "942751298"],
@@ -28,7 +28,7 @@
 		"tagline": "Innovative way to climb workstation",
 		"poster": "poster/images/day5/img52.jpg",
 		"date": "11th march, 2019",
-		"time": "3:00 pm onwards",
+		"time": "11:00 am onwards",
 		"venue": "Near Narayan Bhavan",
 		"student_coordinator": [
 			["Akshat Shah ", "9924840199"],
@@ -56,10 +56,10 @@
 			"General rules for the completion of task will be given on the spot.",
 			"Participants have to bring their respective college ID Card."
 		],
-		"fees": "250 INR",
+		"fees": "250 INR per team",
 		"Registration_type": "Pre-registration and first come first serve basis.",
-		"Registration_Start_date": "18/02/2019, 11:00am",
-		"Registration_Closure_date": "25/02/2019, up to 5:00pm",
+		"Registration_Start_date": "20/02/2019, 11:00am",
+		"Registration_Closure_date": "28/02/2019, up to 5:00pm",
 		"Winning_prize": "1st prize: 3000,  2nd prize: 1500,  3rd prize: 1000",
 		"Additional_remark": "Numbers of winner rank are subject to reduce based on strength of participation.,Participation Certificate will be provided to all the participants."
 
@@ -70,7 +70,7 @@
 		"tagline": "Keep calm and play paint ball!!!",
 		"poster": "poster/images/day5/img53.jpg",
 		"date": "11th march, 2019",
-		"time": "2:30 am onwards",
+		"time": "2:30 pm onwards",
 		"venue": "Parking space near Multimedia Hall",
 		"student_coordinator": [
 			["Nishi Patel", "0"],
@@ -86,10 +86,10 @@
 			"The first team to tear the rings of opponent with water guns within the provided time limit will win.",
 			"If any team is not able to tear all rings of opponent team within the time limit then the team whose minimum rings are torn will win."
 		],
-		"fees": "150 INR per Team",
+		"fees": "200 INR per Team",
 		"Registration_type": " Pre-registration and first come first serve basis. ",
-		"Registration_Start_date": "18/02/2019, 11 am onwards",
-		"Registration_Closure_date": "25/02/2019, up to 5:00pm",
+		"Registration_Start_date": "20/02/2019, 11 am onwards",
+		"Registration_Closure_date": "28/02/2019, up to 5:00pm",
 		"Winning_prize": "First prize Rs. 1000, second prize Rs. 500",
 		"Additional_remark": ""
 
@@ -100,7 +100,7 @@
 		"tagline": "Ab kuch shikhao filmy style main",
 		"poster": "poster/images/day5/img54.jpg",
 		"date": "11th march, 2019",
-		"time": "4:00 pm onwards",
+		"time": "4:30 pm onwards",
 		"venue": "Multimedia Hall / Seminar Hall",
 		"student_coordinator": [
 			["Karan Thacker", "8780784343"],
@@ -115,8 +115,8 @@
 		],
 		"fees": "50 INR per team",
 		"Registration_type": "Pre-registration required.",
-		"Registration_Start_date": "18/02/2019, 11:00am onwards",
-		"Registration_Closure_date": "25/02/2019, up to 5:00pm",
+		"Registration_Start_date": "20/02/2019, 11:00am onwards",
+		"Registration_Closure_date": "28/02/2019, up to 5:00pm",
 		"Winning_prize": "Attractive cash prizes to the winner and runner-up would be given ",
 		"Additional_remark": "Location – Multimedia hall"
 
@@ -127,7 +127,7 @@
 		"tagline": "Let black be more colourful",
 		"poster": "poster/images/day5/img55.jpg",
 		"date": "11th march, 2019",
-		"time": "9:00 am onwards",
+		"time": "11:00 am onwards",
 		"venue": "Drawing Hall, Narayan Bhavan",
 		"student_coordinator": [
 			["Karan Thacker", "8780784343"],
@@ -142,10 +142,10 @@
 		],
 		"fees": "50 INR",
 		"Registration_type": "Pre-registration required.",
-		"Registration_Start_date": "18/02/2019, 11:00am onwards",
-		"Registration_Closure_date": "25/02/2019, up to 5:00pm",
+		"Registration_Start_date": "20/02/2019, 11:00am onwards",
+		"Registration_Closure_date": "28/02/2019, up to 5:00pm",
 		"Winning_prize": "To be announced at the time of event. Event prize money will be auction based.",
-		"Additional_remark": "Event auction will be held on 6th March at 4:30pm in central foyer"
+		"Additional_remark": "Event auction will be held on 12th March at 4:30pm in central foyer"
 
 	},
 	{
